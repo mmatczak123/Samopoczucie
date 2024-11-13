@@ -1,0 +1,2 @@
+# Załadowanue paczek
+library(tidyverse)
